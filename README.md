@@ -12,7 +12,7 @@ BM4D算法可以认为将传统算法对于3D数据的滤波进行了全盘考�
 
 原始数据滤波结果
 
-
+![image](https://github.com/Dingyi-Ji/BM4D_denoise_NLOS_data/blob/main/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E5%8E%BB%E5%99%AA%E7%BB%93%E6%9E%9C%E5%AF%B9%E6%AF%94_%E5%8E%8B%E7%BC%A9.gif)
 
 
 经过LCT算法后的成像结果
